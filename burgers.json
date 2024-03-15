@@ -1,0 +1,38 @@
+[
+    {
+        "category": "Tradicional",
+        "name": "Texas Burguer",
+        "price": 25.99,
+        "photo": "Card-burger-1-1"
+    },
+    {
+        "category": "Tradicional",
+        "name": "Texas Burguer",
+        "price": 25.99,
+        "photo": "Card-burger-2-3"
+    },
+    {
+        "category": "Tradicional",
+        "name": "Texas Burguer",
+        "price": 25.99,
+        "photo": "Card-burger-1-1"
+    },
+    {
+        "category": "Tradicional",
+        "name": "Texas Burguer",
+        "price": 25.99,
+        "photo": "Card-burger-2-3"
+    },
+    {
+        "category": "Tradicional",
+        "name": "Texas Burguer",
+        "price": 25.99,
+        "photo": "Card-burger-1-1"
+    },
+    {
+        "category": "Tradicional",
+        "name": "Texas Burguer",
+        "price": 25.99,
+        "photo": "Card-burger-2-3"
+    }
+]
